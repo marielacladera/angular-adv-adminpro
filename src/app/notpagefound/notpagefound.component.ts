@@ -10,7 +10,7 @@ export class NotpagefoundComponent {
   private year: number;
 
   constructor( 
-    
+      
   ) {
     this.year = new Date().getFullYear(); 
   }
